@@ -1,6 +1,7 @@
 /*
-Copyright © 2023 NAME HERE <EMAIL ADDRESS>
+Copyright © 2023 Gabriel Jeronimo dev.gjeronimo@gmail.com
 */
+
 package cmd
 
 import (
