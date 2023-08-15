@@ -20,7 +20,3 @@
 # Go workspace file
 go.work
 
-# Remove
-restart_app_test.go
-event_filter_test.go
-watch_file_change_test.go

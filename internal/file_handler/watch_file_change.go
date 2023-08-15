@@ -28,8 +28,7 @@ func (w *WatchFiles) FileChanges(restartChan <-chan bool) {
 	if err := watcher.Add(w.Path); err != nil {
 		panic(err)
 	}
-
-	fmt.Printf("\033[32mRikka is running -> \u001B[0m \033[33m%v\u001B[0m\n", w.Path)
+	fmt.Printf("\033[32mRikka is running -> \u001B[0m \033[33m%v\u001B[0m\033[32m -> \u001B[0m\033[33m%v\u001B\n", w.Path, w.Reflect)
 	w.RestartApp() // Start the application
 
 	lastRestartTime := time.Now()
