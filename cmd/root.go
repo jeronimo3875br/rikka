@@ -1,13 +1,8 @@
-/*
-Copyright © 2023 Gabriel Jeronimo dev.gjeronimo@gmail.com
-*/
-
 package cmd
 
 import (
-	"os"
-
 	"github.com/spf13/cobra"
+	"os"
 )
 
 var rootCmd = &cobra.Command{
@@ -23,6 +18,4 @@ func Execute() {
 	}
 }
 
-func init() {
-	// ...
-}
+func init() {}
