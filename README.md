@@ -2,6 +2,14 @@
  <img src="https://github.com/jeronimo3875br/rikka/blob/master/assets/rikka_main.gif" alt="rikka_main" width="300"/>
 </p>
 
+# 言語ガイド
+
+お好きな言語を選択してください：
+
+- [English](./README.en.md)
+- [日本語 (Japanese)](./README.md)
+- [Português (Portuguese)](./README.pt.md)
+
 # 導入
 Rikkaは、<a href="https://github.com/remy/nodemon">nodemon</a>のようなソリューションと同様に、アプリケーションのモニタリングと自動リロードのために開発されたCLIです。しかしながら、Rikkaは任意のプログラミング言語をサポートするように設計され、アプリケーションを手動で再起動する必要や、さまざまなテクノロジー用に異なるパッケージをインストールする必要がありません。
 
