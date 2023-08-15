@@ -64,5 +64,5 @@ rikka watch --path C:\Users\Jeronimo\projects\api --reflect "node bin/server.js"
 rikka watch --path C:\Users\Jeronimo\projects\cli --reflect "go run cmd/main.go" --ignore go.mod,README.md
 ```
 
-# License
-Rikka is released under the MIT license. See: <a href="https://github.com/jeronimo3875br/rikka/blob/master/LICENSE">License</a>
+# Licença
+Rikka é lançado sob a licença do MIT. Consulte: <a href="https://github.com/jeronimo3875br/rikka/blob/master/LICENSE">Licença</a>
