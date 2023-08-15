@@ -2,6 +2,14 @@
  <img src="https://github.com/jeronimo3875br/rikka/blob/master/assets/rikka_main.gif" alt="rikka_main" width="300"/>
 </p>
 
+# Guia de Idiomas
+
+Escolha o seu idioma:
+
+- [English](./README.en.md)
+- [日本語 (Japanese)](./README.jp.md)
+- [Português (Portuguese)](./README.pt.md)
+
 # Intrudução
 Rikka é uma CLI desenvolvida para monitoramento e recarregamento automático de aplicativos, similar a soluções como <a href="https://github.com/remy/nodemon">nodemon</a>. No entanto, a Rikka foi concebida de forma a oferecer suporte a qualquer linguagem de programação, eliminando a necessidade de reiniciar manualmente seus aplicativos ou de instalar diferentes pacotes para diversas tecnologias.
 
