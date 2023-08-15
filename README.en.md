@@ -2,10 +2,18 @@
  <img src="https://github.com/jeronimo3875br/rikka/blob/master/assets/rikka_main.gif" alt="rikka_main" width="300"/>
 </p>
 
+# Language Guide
+
+Select your language:
+
+- [English](./README.en.md)
+- [日本語 (Japanese)](./README.md)
+- [Português (Portuguese)](./README.pt.md)
+
 # Introduction
 Rikka is a CLI developed for monitoring and automatic reloading of applications, similar to solutions like [nodemon](https://github.com/remy/nodemon). However, Rikka has been designed to support any programming language, eliminating the need to manually restart your applications or install different packages for various technologies.
 
-# Installation
+## Installation
 To install Rikka, you need to have GO installed on your machine. You can find installation instructions for the latest version at: [https://go.dev/dl/](https://go.dev/dl/)
 
 After installing GO, you can use [GIT](https://git-scm.com/) to download Rikka to your machine by running the following command in your terminal:
