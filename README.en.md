@@ -6,7 +6,6 @@
 
 Select your language:
 
-- [English](./README.en.md)
 - [日本語 (Japanese)](./README.md)
 - [Português (Portuguese)](./README.pt.md)
 
