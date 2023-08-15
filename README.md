@@ -7,7 +7,6 @@
 お好きな言語を選択してください：
 
 - [English](./README.en.md)
-- [日本語 (Japanese)](./README.md)
 - [Português (Portuguese)](./README.pt.md)
 
 # 導入
